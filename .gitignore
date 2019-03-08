@@ -6,3 +6,5 @@ prout*
 num*
 *.csv
 *.jar
+.bloop/
+.metals/
